@@ -35,14 +35,18 @@ This project will also improve your machine learning algorithm and NLP knowledge
 
 ## Project Stack
 
-.NET 6 and React
+.NET 5 and React
+
+## ADH/ADR
+
+...
 
 ## C4 Diagram
 
 ### Level 1
 
-![Images/C4Lvl1.png](Images/C4Lvl1.png)
+![Solution/Images/C4Lvl1.png](Solution/Images/C4Lvl1.png)
 
 ### Level 2
 
-![Images/C4Lvl2.png](Images/C4Lvl2.png)
+![Solution/Images/C4Lvl2.png](Solution/Images/C4Lvl2.png)
